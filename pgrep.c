@@ -1,4 +1,4 @@
-// Michal Kryštof xmicha64
+// Kryštof Michal xmicha64
 #include <vector>
 #include <regex>
 #include <thread>
